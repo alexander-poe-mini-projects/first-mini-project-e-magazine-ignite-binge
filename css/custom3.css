@@ -1,0 +1,52 @@
+body{
+    background-color:  black;
+    ;
+}
+.contents, .colorwhite{
+    color: white;
+    padding-left: 20px;
+}
+.contents, .contentimage1{
+    text-align: center;
+}
+
+.content1{
+    color: white;
+    text-align: center;
+}
+.content1 span{
+    color: red;
+}
+.content2{
+    text-align: center;
+}
+
+.content3{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 120px;
+    color: white;
+}
+a:hover{
+    color: black;
+}
+img{
+    text-align: center;
+}
+
+.navbar1{
+    background-color: #9B0000;
+}
+.navbar1 .navbarimage{
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.boxpagination{
+    padding-left: 70px;
+    margin-bottom: 30px;
+}
